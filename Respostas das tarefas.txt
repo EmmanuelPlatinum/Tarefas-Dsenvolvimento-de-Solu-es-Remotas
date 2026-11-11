@@ -1,0 +1,150 @@
+1. O conceito de usabilidade está mais diretamente relacionado a:
+Resposta:
+B) Eficácia, eficiência e satisfação em um contexto de uso.
+2. A Interação Humano-Computador (IHC) estuda principalmente:
+Resposta:
+C) A interação entre pessoas e sistemas computacionais.
+3. Qual alternativa diferencia corretamente UX e UI?
+Resposta:
+A) UX abrange a experiência global; UI trata dos elementos de interface.
+4. Um usuário conclui corretamente uma tarefa no sistema. Isso demonstra principalmente:
+Resposta:
+D) Eficácia.
+5. Uma interface permite executar uma tarefa com pouco tempo e esforço. Essa característica representa:
+Resposta:
+B) Eficiência.
+6. Facilidade de aprendizagem significa que:
+Resposta:
+E) Novos usuários conseguem aprender a operar o sistema com relativa facilidade.
+7. Qual exemplo melhor expressa o princípio de consistência?
+Resposta:
+B) Usar padrões semelhantes de botões e navegação em todo o sistema.
+8. Uma mensagem "Arquivo enviado com sucesso" após o upload é exemplo de:
+Resposta:
+A) Feedback ao usuário.
+9. A visibilidade do estado do sistema é atendida quando:
+Resposta:
+C) O sistema mostra indicador de carregamento durante uma tarefa demorada.
+10. Qual medida contribui para a prevenção de erros?
+Resposta:
+D) Validar campos e pedir confirmação antes de ações destrutivas.
+11. Design responsivo consiste em:
+Resposta:
+E) Adaptar o layout a diferentes tamanhos de tela e dispositivos.
+12. Em uma conexão de baixa velocidade, qual escolha favorece a usabilidade?
+Resposta:
+B) Otimizar imagens e priorizar conteúdo essencial.
+13. Tolerância a falhas em uma solução remota significa:
+Resposta:
+C) Manter ou recuperar funções essenciais diante de problemas.
+14. Acessibilidade digital busca:
+Resposta:
+A) Permitir o uso por pessoas com diferentes capacidades e necessidades.
+15. Qual prática favorece usuários que navegam sem mouse?
+Resposta:
+D) Permitir navegação por teclado com foco perceptível.
+16. Um leitor de tela é:
+Resposta:
+B) Uma tecnologia assistiva que apresenta informações da interface por voz ou braille.
+17. As WCAG são diretrizes relacionadas principalmente à:
+Resposta:
+E) Acessibilidade de conteúdo Web.
+18. Uma avaliação heurística de interface consiste em:
+Resposta:
+C) Examinar a interface com base em princípios reconhecidos de usabilidade.
+19. Qual é a principal vantagem de testes de usabilidade com usuários reais?
+Resposta:
+A) Observar dificuldades e comportamentos durante tarefas representativas.
+20. Um protótipo de baixa fidelidade é útil porque:
+Resposta:
+D) Permite explorar e revisar ideias de interface com baixo custo.
+21. Uma rede LAN normalmente abrange:
+Resposta:
+B) Uma área local, como escritório ou laboratório.
+22. O modelo TCP/IP é utilizado para:
+Resposta:
+C) Organizar protocolos de comunicação em redes e na Internet.
+23. A função básica de um endereço IP é:
+Resposta:
+A) Identificar uma interface de rede para comunicação IP.
+24. Uma rede convergente caracteriza-se pela:
+Resposta:
+E) Integração de diferentes serviços, como voz, dados e vídeo, em infraestrutura compartilhada.
+25. VoIP refere-se à:
+Resposta:
+D) Comunicação de voz sobre redes IP.
+26. O protocolo SIP é frequentemente empregado para:
+Resposta:
+B) Estabelecer, modificar e encerrar sessões de comunicação.
+27. O RTP é associado principalmente ao:
+Resposta:
+C) Transporte de mídia em tempo real, como áudio e vídeo.
+28. O RTCP auxilia aplicações multimídia por meio de:
+Resposta:
+A) Informações de controle e qualidade da transmissão RTP.
+29. Em redes, latência é:
+Resposta:
+D) O atraso na transmissão de dados entre pontos.
+30. Jitter corresponde à:
+Resposta:
+E) Variação do atraso entre pacotes.
+31. A perda de pacotes em uma videoconferência pode causar:
+Resposta:
+B) Falhas de áudio e vídeo, travamentos e degradação da qualidade.
+32. Qual é o objetivo da priorização de tráfego em QoS?
+Resposta:
+C) Favorecer aplicações sensíveis a atraso, conforme políticas definidas.
+33. Uma VPN é utilizada principalmente para:
+Resposta:
+A) Estabelecer comunicação protegida sobre redes não confiáveis.
+34. SSH é um protocolo frequentemente usado para:
+Resposta:
+D) Acesso remoto seguro a sistemas e execução de comandos.
+35. VDI (Virtual Desktop Infrastructure) refere-se à:
+Resposta:
+E) Disponibilização de ambientes de desktop virtual hospedados em infraestrutura centralizada.
+36. Uma vantagem da computação em nuvem para soluções remotas é:
+Resposta:
+B) Possibilitar acesso sob demanda e escalabilidade de recursos.
+37. A principal função de um firewall é:
+Resposta:
+C) Controlar tráfego de rede conforme regras de segurança.
+38. A segmentação de redes contribui para a segurança porque:
+Resposta:
+A) Limita a comunicação entre segmentos e reduz a propagação de incidentes.
+39. A autenticação multifator (MFA) consiste em:
+Resposta:
+D) Combinar fatores distintos para verificar a identidade.
+40. O monitoramento de infraestrutura remota permite:
+Resposta:
+E) Detectar anomalias, acompanhar desempenho e apoiar resposta a incidentes.
+41. No projeto integrador, a primeira etapa recomendada é:
+Resposta:
+B) Levantar necessidades e requisitos da organização.
+42. Ao identificar perfis de usuários, a equipe deve considerar:
+Resposta:
+C) Funções, tarefas, necessidades e condições de acesso.
+43. Qual critério é adequado para escolher uma plataforma colaborativa?
+Resposta:
+A) Compatibilidade, segurança, recursos, custos e necessidades dos usuários.
+44. Uma política de comunicação remota deve definir:
+Resposta:
+D) Canais, tempos de resposta, reuniões e registro de decisões.
+45. Ao elaborar o diagrama de arquitetura da solução, é importante representar:
+Resposta:
+E) Componentes, conexões, fluxos de acesso e controles de segurança.
+46. Qual prática incorpora acessibilidade desde o início do projeto?
+Resposta:
+B) Incluir requisitos de acessibilidade e validá-los durante o desenvolvimento.
+47. Uma estimativa de custos de solução remota deve incluir:
+Resposta:
+C) Licenças, infraestrutura, implantação, manutenção e suporte.
+48. Na análise de riscos do projeto, uma medida adequada é:
+Resposta:
+A) Identificar ameaças, avaliar impactos e propor controles e contingências.
+49. Um indicador útil para avaliar uma solução remota implantada é:
+Resposta:
+D) Disponibilidade do serviço e satisfação dos usuários.
+50. Na apresentação final do projeto integrador, os estudantes devem:
+Resposta:
+E) Demonstrar a solução proposta, justificar decisões e discutir viabilidade e resultados esperados.
